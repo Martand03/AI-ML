@@ -1,0 +1,1 @@
+yolo detect predict model=last.pt source=0 show=true
